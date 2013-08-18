@@ -1,0 +1,144 @@
+.sempo
+{
+width:320px;
+height: 480px;
+background-image:url('bin2.jpg');
+ position: absolute;
+    top:0;
+    left: 0;
+z-index: 1;
+}
+.bk
+{
+	position: absolute;
+    top:0;
+    right: 0;
+}
+#tw
+{
+	position:absolute;
+	top:140;
+	left:80;
+}
+#fo
+{
+	position:absolute;
+	top:140;
+	left:180;
+}
+.power
+{
+width:320px;
+height: 480px;
+background-image:url('bin.jpg');
+ position: absolute;
+    top:0;
+    left: 0;
+}
+.main
+{
+height:20px;
+width:20px;
+border-radius: 100%;
+display:inline-block;
+position: relative;
+left:50px;
+top:200px;
+}
+.main1
+{
+height:20px;
+width:40px;
+border-radius: 100%;
+display:inline-block;
+position: relative;
+left:50px;
+top:200px;
+}
+.hr1
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: black;
+}
+.hr2
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: black;
+}
+.hr3
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: black;
+}
+.hr4
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: black;
+}
+.hr5
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: black;
+}
+.hr6
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: black;
+}
+.mn1,.mn2,.mn3,.mn4,.mn5,.mn6,.mn7,.mn8
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: black;
+}
+.ss1,.ss2,.ss3,.ss4,.ss5,.ss6,.ss7,.ss8
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: black;
+}
+.em
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+}
+.ap
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: black;
+}
+.red
+{
+	height:10px;
+width:10px;
+border-radius: 100%;
+display: block;
+background-color: red;
+}

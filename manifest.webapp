@@ -1,0 +1,13 @@
+{
+  "name": "Geeclock",
+  "description": "find the time in different manner ",
+  "launch_path": "/binclk.html",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "developer": {
+    "name": "MARS",
+    "url": "mars.com"
+  },
+  "default_locale": "en"
+}
